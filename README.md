@@ -7,7 +7,7 @@ An India-first virtual shopping marketplace where buyers explore category-specif
 ## V1 progress
 
 - [x] Phase 1 starter: responsive market entrance and eight category cards
-- [ ] Phase 1 completion: individual category shop browsing and navigation
+- [x] Phase 1 completion: eight category streets open responsive demo shop pages with shopkeeper introductions, sample catalogue cards, search and back navigation
 - [ ] Phase 2: seller shop creation, products and inventory
 - [ ] Phase 3: protected minimum price engine and category opening markups
 - [ ] Phase 4: rule-based bargaining and category personalities
